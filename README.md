@@ -3,8 +3,8 @@
 <h2> Computer Vision Projects:</h2>
 
 - <b>Stitching images of Philly together using SURF features</b>
-  - [link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  <b>Parallax to calculate distance from camera to object</b>
+  - [link]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/joshmadakor1/Algorithms-Practice))
+- <b>Parallax to calculate distance from camera to object</b>
   - [Link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Watersegmentation to detect gradient changes in sunflower field</b>
   - [Link](https://github.com/joshmadakor1/Algorithms-Practice)
