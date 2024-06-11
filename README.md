@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/> <a href="https://www.linkedin.com/in/joshua-pauly//">AI Profesional</a>
+<h1>Joshua Pauly <br/> <a href="https://www.linkedin.com/in/joshua-pauly//">AI Profesional</a>
 
 <h2> Computer Vision Projects:</h2>
 
