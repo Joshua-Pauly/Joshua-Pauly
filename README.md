@@ -7,7 +7,7 @@
 - <b>Parallax to calculate distance from camera to object</b>
   - [Link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Watersegmentation to detect gradient changes in sunflower field</b>
-  - [Link]((https://github.com/Joshua-Pauly/Watershed-Segmentation))
+  - [Link](https://github.com/Joshua-Pauly/Watershed-Segmentation)
 - <b>Detect matching features of 2 photos of Penn State campus</b>
   - [Link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Identified faces in an image using Cascade classifier and ACF object detector</b>
