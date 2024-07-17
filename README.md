@@ -19,7 +19,7 @@
 - <b>Viscircles algorithm to detect strongest circles of differing radii in a sunflower field</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 - <b>Image blending algorithm to blend a picture of an apple and an orange</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
+  - [Link](https://github.com/Joshua-Pauly/Image-blending)
 - <b>Identified faces in an image using Cascade classifier and ACF object detector</b>
   - [Link](https://github.com/Joshua-Pauly/Identifying-Faces)
 
