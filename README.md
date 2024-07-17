@@ -10,8 +10,6 @@
   - [Link](https://github.com/Joshua-Pauly/Parallax)
 - <b>Detect matching features of 2 photos of Penn State campus</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
-- <b>Identified faces in an image using Cascade classifier and ACF object detector</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 - <b>Detect sunflowers in sunflower field using Guasian and Laplacian pyramids</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 - <b>Adaptive non Maximal Suppression (ANMS) algorithim to detect desirable number of corners</b>
@@ -21,6 +19,8 @@
 - <b>Viscircles algorithm to detect strongest circles of differing radii in a sunflower field</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 - <b>Image blending algorithm to blend a picture of an apple and an orange</b>
+  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
+- <b>Identified faces in an image using Cascade classifier and ACF object detector</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 
 <h2> Natrual Language Processing Projects:</h2>
