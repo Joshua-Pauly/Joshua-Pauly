@@ -9,7 +9,7 @@
 - <b>Parallax to calculate distance from camera to object</b>
   - [Link](https://github.com/Joshua-Pauly/Parallax)
 - <b>Detect matching features of 2 photos of Penn State campus</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
+  - [Link](https://github.com/Joshua-Pauly/Matching-Features)
 - <b>Detect sunflowers in sunflower field using Guasian and Laplacian pyramids</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 - <b>Adaptive non Maximal Suppression (ANMS) algorithim to detect desirable number of corners</b>
