@@ -2,10 +2,10 @@
 
 <h2> Computer Vision Projects:</h2>
 
-- <b>Stitching images of Philly together using SURF features</b>
-  - [Link](https://github.com/Joshua-Pauly/Image-Stitching)
 - <b>Watersegmentation to detect gradient changes in sunflower field</b>
   - [Link](https://github.com/Joshua-Pauly/Watershed-Segmentation)
+- <b>Stitching images of Philly together using SURF features</b>
+  - [Link](https://github.com/Joshua-Pauly/Image-Stitching)
 - <b>Parallax to calculate distance from camera to object</b>
   - [Link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Detect matching features of 2 photos of Penn State campus</b>
