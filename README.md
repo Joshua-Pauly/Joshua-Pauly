@@ -21,7 +21,7 @@
 - <b>Image blending algorithm to blend a picture of an apple and an orange</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 - <b>Identified faces in an image using Cascade classifier and ACF object detector</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
+  - [Link](https://github.com/Joshua-Pauly/Identifying-Faces)
 
 <h2> Natrual Language Processing Projects:</h2>
 
