@@ -7,7 +7,7 @@
 - <b>Stitching images of Philly together using SURF features</b>
   - [Link](https://github.com/Joshua-Pauly/Image-Stitching)
 - <b>Parallax to calculate distance from camera to object</b>
-  - [Link](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Link]((https://github.com/Joshua-Pauly/Parallax))
 - <b>Detect matching features of 2 photos of Penn State campus</b>
   - [Link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Identified faces in an image using Cascade classifier and ACF object detector</b>
