@@ -35,7 +35,7 @@
 <h2> Reinforcement Learning Projects:</h2>
 
 - <b>Trained a Deep Q network to beat the first level of Super Mario Bros using TensorFlow and OpenAI Gym</b>
-  - [Link](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Link](https://github.com/Joshua-Pauly/Mario-DQN)
 
 <h2> Deep Learning Projects:</h2>
 
