@@ -10,10 +10,8 @@
   - [Link](https://github.com/Joshua-Pauly/Parallax)
 - <b>Detect matching features of 2 photos of Penn State campus</b>
   - [Link](https://github.com/Joshua-Pauly/Matching-Features)
-- <b>Detect sunflowers in sunflower field using Guasian and Laplacian pyramids</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 - <b>Adaptive non Maximal Suppression (ANMS) algorithim to detect desirable number of corners</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
+  - [Link](https://github.com/Joshua-Pauly/ANMS-Corners)
 - <b>Edge detector algorithms Canny, Sobel, Prewit, and Roberts on nature image</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 - <b>Viscircles algorithm to detect strongest circles of differing radii in a sunflower field</b>
