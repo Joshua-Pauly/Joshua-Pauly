@@ -43,9 +43,6 @@
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 - <b>Classified IMDB review sentiment with 86% accuracy using a Vanilla RNN model in Keras</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
-    
-<h2> Object Orented Programing Projects:</h2>
-
 
   
 <h2> 🤳 Connect with me:</h2>
