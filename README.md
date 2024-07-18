@@ -24,10 +24,10 @@
 <h2> Natrual Language Processing Projects:</h2>
 
 - <b>Falcon 7b Chatbot trained on NFL comentary</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
+  - [Link](https://github.com/Joshua-Pauly/NLP-Football-Commentary)
 - <b>Transformer model to identify and fix spelling mistakes, resulting in a test accuracy of  95%</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
-- - <b>Language detector using a RNN</b>
+  - [Link](https://github.com/Joshua-Pauly/NLP-Spell-Checker)
+- <b>Language detector using a RNN</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 
 <h2> Reinforcement Learning Projects:</h2>
