@@ -37,7 +37,7 @@
 <h2> Deep Learning Projects:</h2>
 
 - <b>6-category scenery image classifier using Resnet (92% accuracy), VGG 16, VGG 19, and Efficient Net</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
+  - [Link](https://github.com/Joshua-Pauly/Image-Classification)
 - <b>Classified IMDB review sentiment with 86% accuracy using a Vanilla RNN model in Keras</b>
   - [Link](https://github.com/Joshua-Pauly/Under-Construction)
 
