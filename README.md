@@ -28,8 +28,7 @@
 - <b>Transformer model to identify and fix spelling mistakes, resulting in a test accuracy of  95%</b>
   - [Link](https://github.com/Joshua-Pauly/NLP-Spell-Checker)
 - <b>Language detector using a RNN</b>
-  - [Link](https://github.com/Joshua-Pauly/Under-Construction)
-
+  - [Link](https://github.com/Joshua-Pauly/Language-Detector)
 <h2> Reinforcement Learning Projects:</h2>
 
 - <b>Trained a Deep Q network to beat the first level of Super Mario Bros using TensorFlow and OpenAI Gym</b>
