@@ -1,4 +1,4 @@
-<h1>Joshua Pauly <br/> <a href="https://www.linkedin.com/in/joshua-pauly//">AI Profesional</a>
+<h1>Joshua Pauly ![image](https://github.com/user-attachments/assets/3179f2d5-af2a-4049-9b39-435679faecd3) <br/> <a href="https://www.linkedin.com/in/joshua-pauly//">AI Profesional</a>
 
 <h2> Computer Vision Projects:</h2>
 
