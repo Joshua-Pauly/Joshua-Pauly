@@ -1,4 +1,12 @@
-<h1>Joshua Pauly ![image](https://github.com/user-attachments/assets/3179f2d5-af2a-4049-9b39-435679faecd3) <br/> <a href="https://www.linkedin.com/in/joshua-pauly//">AI Profesional</a>
+<h1 style="display: flex; align-items: center; justify-content: center; font-size: 4em; text-align: center; margin: 0;">
+        <img src="https://github.com/user-attachments/assets/e751a96c-55ca-4727-9d67-382078525a4c" alt="me-1 (2)" width="125" height="125"> Joshua Pauly, <a href="https://www.linkedin.com/in/joshua-pauly/" style="font-size: 3em; text-decoration: none; color: inherit;">AI Professional</a>
+    
+</h1>
+
+<h2>Purpose</h2>
+<b>Welcome to my GitHub profile! This repository is dedicated to showcasing my experience and work in the field of Artificial Intelligence, with a particular focus on computer vision. Here, you'll find a collection of projects, research, and contributions that reflect my journey in AI. 
+
+I have set my sights on pursuing a PhD in computer vision by the Fall of 2025. This platform serves as a space to share my projects, research, and contributions as I work towards this goal. Feel free to reach out I would love to connect over a shared passion for AI. 
 
 <h2> Computer Vision Projects:</h2>
 
