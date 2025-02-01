@@ -6,7 +6,7 @@
 <h2>Purpose</h2>
 <b>Welcome to my GitHub profile! This repository is dedicated to showcasing my experience and work in the field of Artificial Intelligence, with a particular focus on computer vision. Here, you'll find a collection of projects, research, and contributions that reflect my journey in AI. 
 
-I have set my sights on pursuing a PhD in computer vision by the Fall of 2025. This platform serves as a space to share my projects, research, and contributions as I work towards this goal. Feel free to reach out I would love to connect over a shared passion for AI. 
+This platform serves as a space to share my projects, research, and contributions as I work towards this goal. Feel free to reach out I would love to connect over a shared passion for AI. 
 
 <h2> Computer Vision Projects:</h2>
 
