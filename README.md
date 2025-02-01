@@ -52,7 +52,7 @@ I have set my sights on pursuing a PhD in computer vision by the Fall of 2025. T
 <h2> Webscraping Projects:</h2>
 
 - <b>AFL 2024 player stats</b>
-  - [Link](https://github.com/Joshua-Pauly/AFL-Webscraping)
+  - [Link](https://github.com/Joshua-Pauly/AFL-Player-Data)
   
 <h2> 🤳 Connect with me:</h2>
 
