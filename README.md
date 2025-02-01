@@ -49,7 +49,10 @@ I have set my sights on pursuing a PhD in computer vision by the Fall of 2025. T
 - <b>6-category scenery image classifier usingTransfer learning [Resnet (92% accuracy), VGG 16, VGG 19, and Efficient Net] and Vanilla CNN</b>
   - [Link](https://github.com/Joshua-Pauly/Image-Classification)
 
+<h2> Webscraping Projects:</h2>
 
+- <b>AFL 2024 player stats</b>
+  - [Link](https://github.com/Joshua-Pauly/AFL-Webscraping)
   
 <h2> 🤳 Connect with me:</h2>
 
