@@ -18,9 +18,9 @@ This platform serves as a space to share my projects, research, and contribution
   - [Link](https://github.com/Joshua-Pauly/Parallax)
 - <b>Detect matching features of 2 photos of Penn State campus</b>
   - [Link](https://github.com/Joshua-Pauly/Matching-Features)
-- <b>Adaptive non Maximal Suppression (ANMS) algorithim to detect desirable number of corners</b>
+- <b>Adaptive non Maximal Suppression (ANMS) algorithm to detect desirable number of corners</b>
   - [Link](https://github.com/Joshua-Pauly/ANMS-Corners)
-- <b>Edge detector algorithms Canny, Sobel, Prewit, and Roberts on nature image</b>
+- <b>Edge detector algorithms Canny, Sobel, Prewitt, and Roberts on nature image</b>
   - [Link](https://github.com/Joshua-Pauly/Edge-Detection)
 - <b>Viscircles algorithm to detect strongest circles of differing radii in a sunflower field</b>
   - [Link](https://github.com/Joshua-Pauly/viscircles)
@@ -29,9 +29,9 @@ This platform serves as a space to share my projects, research, and contribution
 - <b>Identified faces in an image using Cascade classifier and ACF object detector</b>
   - [Link](https://github.com/Joshua-Pauly/Identifying-Faces)
 
-<h2> Natrual Language Processing Projects:</h2>
+<h2> Natural Language Processing Projects:</h2>
 
-- <b>Falcon 7b Chatbot trained on NFL comentary</b>
+- <b>Falcon 7b Chatbot trained on NFL commentary</b>
   - [Link](https://github.com/Joshua-Pauly/NLP-Football-Commentary)
 - <b>Transformer model to identify and fix spelling mistakes, resulting in a test accuracy of  95%</b>
   - [Link](https://github.com/Joshua-Pauly/NLP-Spell-Checker)
@@ -46,7 +46,7 @@ This platform serves as a space to share my projects, research, and contribution
 
 - <b>Classified IMDB review sentiment with 86% accuracy using a Vanilla RNN model in Keras</b>
   - [Link](https://github.com/Joshua-Pauly/IMBD-Sentiment)
-- <b>6-category scenery image classifier usingTransfer learning [Resnet (92% accuracy), VGG 16, VGG 19, and Efficient Net] and Vanilla CNN</b>
+- <b>6-category scenery image classifier using Transfer learning [Resnet (92% accuracy), VGG 16, VGG 19, and Efficient Net] and Vanilla CNN</b>
   - [Link](https://github.com/Joshua-Pauly/Image-Classification)
 
 <h2> Webscraping Projects:</h2>
