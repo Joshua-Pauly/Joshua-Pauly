@@ -34,7 +34,7 @@ This platform serves as a space to share my projects, research, and contribution
 <h2> Natural Language Processing Projects:</h2>
 
 - <b>Record Computer Audio and return Transcription as a txt file</b>
-  - [Link]((https://github.com/Joshua-Pauly/Audio_to_transcript/tree/main))
+  - [Link](https://github.com/Joshua-Pauly/Audio_to_transcript/tree/main)
 - <b>Falcon 7b Chatbot trained on NFL commentary</b>
   - [Link](https://github.com/Joshua-Pauly/NLP-Football-Commentary)
 - <b>Transformer model to identify and fix spelling mistakes, resulting in a test accuracy of  95%</b>
