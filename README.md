@@ -10,6 +10,8 @@ This platform serves as a space to share my projects, research, and contribution
 
 <h2> Computer Vision Projects:</h2>
 
+- <b>Track Hand Movement for mouse control</b>
+  - [Link](https://github.com/Joshua-Pauly/Hand_Mouse)
 - <b>Watersegmentation to detect gradient changes in sunflower field</b>
   - [Link](https://github.com/Joshua-Pauly/Watershed-Segmentation)
 - <b>Stitching images of Philly together using SURF features</b>
