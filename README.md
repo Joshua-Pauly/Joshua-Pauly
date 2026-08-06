@@ -11,6 +11,7 @@ This platform serves as a space to share my projects, research, and contribution
 <h2> Masters Thesis Project:</h2>
 
 - <b>Comparative analysis of Yolo architecture and SSD architecture for real time object detection on driving footage</b>
+ - [Link](https://github.com/Joshua-Pauly/Real-Time-Object-Detection-YOLO-vs-SSD-comparative-Analysis)
 
 <h2> Computer Vision Projects:</h2>
 
