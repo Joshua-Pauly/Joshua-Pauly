@@ -8,6 +8,10 @@
 
 This platform serves as a space to share my projects, research, and contributions as I work towards this goal. Feel free to reach out I would love to connect over a shared passion for AI. 
 
+<h2> Masters Thesis Project:</h2>
+
+- <b>Comparative analysis of Yolo architecture and SSD architecture for real time object detection on driving footage</b>
+
 <h2> Computer Vision Projects:</h2>
 
 - <b>Track Hand Movement for mouse control</b>
